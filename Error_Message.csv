@@ -1,7 +1,10 @@
 Error,Count
-Timeout while retrieving information ,21
-Connection to DB failed ,19
-Tried to add information to closed ticket ,18
-Permission denied while closing ticket ,16
-The ticket was modified while updating ,13
-Ticket doesn't exist ,10
+Connection to DB failed ,50
+Timeout while retrieving information ,49
+Tried to add information to closed ticket ,41
+Permission denied while closing ticket ,39
+The ticket was modified while updating ,31
+Ticket doesn't exist ,29
+Closed ticket ,25
+Created ticket ,23
+Commented on ticket ,22
